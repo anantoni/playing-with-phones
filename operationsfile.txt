@@ -1,0 +1,215 @@
+fts
+ft Athens 5
+s Athens
+t 3
+min
+max
+i 6960196296 Makris Maurice Thessaloniki 48.00
+i 6960196296 Makris Maurice Thessaloniki 48.00
+i 6948614858 Bullock Guy Rhodes 41.00
+i 6961468264 Evans Damaskinos Eleusina 126.00
+i 6954079694 Law Hieremias Edessa 85.00
+i 6948370923 Vitalis Lilika Drama 26.00
+i 6952746354 Peacock Juanita Galatsi 129.00
+i 6952546361 Morgan Robert Ermoupoli 9.00
+i 6947133572 Hansen Daphney NeaAlikarnassos 56.00
+i 6952685274 Wyatt Gary Serres 12.00
+i 6951808258 Stanley Nerissa Serres 45.00
+i 6965692547 Bouras Florence Athens 72.00
+i 6967420476 Stephens Connie Athens 18.00
+i 6932382733 Jackson Mixalis Serres 35.00
+i 6959265292 Simmons Theresa Thessaloniki 97.00
+i 6928472842 Tzortzakis Gavriil Athens 237.00
+i 6922374873 Antoniadis Anastasios Athens 528.00
+i 6987878777 Tade Efh Athens 68.00
+i 6923258743 Bouras Babis Athens 72.00
+i 6932732887 White Walter Athens 58.00
+i 6923254233 Strife Cloud Athens 88.00
+i 6932883734 Undewoord Francis Athens 87.00
+i 6944232322 Richards George Drama 145.00
+i 6944234334 Harrison James NeaAlikarnassos 123.00
+fts
+ft Athens 5
+ft Athens 10
+q 6944232322
+p Athens
+s Athens
+q 6967420476
+t 3
+t 15
+min
+max
+d 6922374873
+fts
+ft Athens 5
+ft Athens 10
+p Athens
+s Athens
+t 3
+t 15
+d 6928472842
+q 6928472842 
+fts
+ft Athens 5
+ft Athens 10
+p Athens
+s Athens
+t 3
+t 15
+d 6948614858
+d 6961468264
+d 6954079694
+d 6948370923
+d 6952746354
+d 6952546361
+fts
+t 15
+d 6947133572
+d 6952685274
+d 6951808258
+d 6944234334
+fts
+t 15
+d 6944232322
+fts
+ft Athens 5
+ft Athens 10
+s Athens
+t 3
+t 15
+max
+min
+s Ermoupoli
+s Thessaloniki
+ft Thessaloniki 5
+d 6965692547
+d 6967420476
+d 6959265292
+d 6960196296
+d 6960196296
+d 6987878777
+d 6923258743
+d 6932732887
+d 6923254233
+d 6932883734
+fts
+ft Athens 5
+s Athens
+t 3
+min
+max
+d 6932382733
+fts
+ft Athens 5
+s Athens
+t 3
+min
+max
+l t200.txt
+i 6957303774 Kang Anastasia Nafplio 55.00
+l 6987773045
+ft Nafplio 5
+d 6957303774
+i 6957303774 Kang Anastasia Nafplio 155.00
+i 6957303774 Kang Anastasia Nafplio 155.00
+i 6947978769 Papandrea Delphina Livadeia 56.00
+i 6953938782 Theodoridis Malaina Sparta 62.00
+l 6947978769
+i 6966568052 Pugh Erika Rafina 50.00
+i 6955480929 Kay Melissa Cholargos 95.00
+t 3
+s Nafplio
+ft Nafplio 2
+fts
+min
+max
+l 6955480929
+d 6955480929
+d 6947978769
+d 6957303774
+d 6969988541
+max
+d 6944194787
+min
+p Athens
+s Athens
+p Thessaloniki
+s Thessaloniki
+i 6999999999 Kubrick Stanley Hertfordshire 1520.00
+i 6874837483 Inthemiddle Man Middle 89.00
+i 6911111111 Holmes Sherlock London 2.00
+fts
+i 6912323211 Watson John London 82.00
+fts
+i 6912444411 Oliver John London 126.00
+p London
+p Hertfordshire
+s London
+s Hertfordshire
+t 20
+fts
+min
+max
+d 6960094415
+d 6950507850
+d 6950369113
+d 6957165707
+d 6961147948
+d 6954405058
+d 6954184844
+d 6969771195
+d 6964334382
+d 6964096193
+d 6967221980
+d 6963472606
+d 6959227760
+d 6964187243
+d 6954904835
+d 6951089371
+d 6958854672
+d 6960924007
+d 6962164961
+d 6945163665
+d 6948462122
+d 6968326810
+d 6950887484
+d 6944194787
+d 6947968584
+d 6965405126
+d 6964775616
+d 6954098969
+d 6961735424
+d 6948758972
+d 6955444815
+d 6959455149
+d 6967350656
+d 6955322614
+d 6964542136
+d 6958297700
+d 6955629356
+d 6964381909
+d 6951883640
+d 6950086759
+d 6962814311
+d 6949864149
+d 6956866219
+d 6953525642
+d 6965076189
+d 6958877548
+d 6969988541
+d 6945843079
+d 6957715862
+d 6954139773
+d 6953113820
+q 6954139773
+p Athens
+s Athens
+p Thessaloniki
+s Thessaloniki
+t 100
+ft Athens 15
+fts
+min
+max
+
+e
